@@ -1,0 +1,6 @@
+id,legend_title,hover_text
+pagetitle,Regional tourism spend,
+year,Year ending March,
+product,Product,
+origin,Origin,
+type,Type,"Pies are best used when there are very few categories, with no one segment being too large. We frequently end up using them as a slightly informative yes/no, true/false toggle.  "
