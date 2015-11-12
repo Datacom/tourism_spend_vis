@@ -271,7 +271,7 @@ district_map = dc.geoChoroplethChart("#district_map")
   RTO_charts.chart1.width(width/2);
   RTO_charts.chart2.width(width/2);
 
-// We use D3.js to put stuff on the page. This array is stuff D3 needs to know about, and we stuff it in the d3 data.
+// We use D3.js to put stuff on the page. This array is what D3 needs to know about, and we stick it in the d3 data.
   
    var tabs = [
     {
